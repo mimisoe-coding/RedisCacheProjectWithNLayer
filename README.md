@@ -5,5 +5,5 @@
     - Business logic => including use case implementations and expose them such as a REST API.
     - Data access => for example a database
 
-   ![N-Layer Architecture](NLayer.png)
+   ![N-Layer Architecture](/RedisCacheProjectWithNLayer/NLayer.png)
 
