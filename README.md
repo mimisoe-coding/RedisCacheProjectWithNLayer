@@ -5,4 +5,4 @@
     - Business logic => including use case implementations and expose them such as a REST API.
     - Data access => for example a database
 
-    ![Alt text](./NLayer.png)
+    ![Alt text](NLayer.png)
